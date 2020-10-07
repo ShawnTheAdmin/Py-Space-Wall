@@ -23,12 +23,6 @@ See the requirements.txt file to import them with pip: pip install -r requiremen
   1. Download project and extract contents. 
   2. Create a scheduled task on Windows with the frequency you want this to run, use the EXE in the scheduled task.
   
-# Upcoming Changes
-
-    Graphical interface built with Tkinter
-    Automatic scheduled task and/or service creation
-    Compressed Images
-  
 # Credit
 
 This was written by me but largely inspired by the Downlink app for Mac (https://downlinkapp.com/). Many thanks to Anthony Colangelo for the inspiration! 
