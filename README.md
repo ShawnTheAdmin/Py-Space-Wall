@@ -25,5 +25,5 @@ See the requirements.txt file to import them with pip: pip install -r requiremen
   
 # Credit
 
-This was written by me but largely inspired by the Downlink app for Mac (https://downlinkapp.com/). Many thanks to Anthony Colangelo for the inspiration! 
+This was written by me but largely inspired by the Downlink app for Mac (https://downlinkapp.com/). Many thanks to Anthony Colangelo for the inspiration! If you have a Mac check this out, it's awesome.
 
