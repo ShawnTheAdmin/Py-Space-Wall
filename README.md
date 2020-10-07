@@ -5,6 +5,11 @@ A simple Python application that changes your Windows wallpaper every 20 minutes
 
 This application is intended to be ran via the executable but the source code can be found in ./src folder. Future builds will have the ability to manage scheduled task through the GUI but this does not exist currently.
 
+These are some planned future improvements: 
+* Build a GUI with Tkinter
+* Automate scheduled task creation
+* Add wallpaper options via JSON file
+
 # Requirements
 
 NOTE: These are packaged with the EXE, you only have to import these if you want to work with the source code.
