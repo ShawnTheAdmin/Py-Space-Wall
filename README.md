@@ -12,6 +12,9 @@ NOTE: These are packaged with the EXE, you only have to import these if you want
 The following pip packages are required to run the source code, version numbers used in project included:
 
     Requests
+
+These are in use but packaged into Python by default:
+
     Shutil
     Ctypes
     OS
